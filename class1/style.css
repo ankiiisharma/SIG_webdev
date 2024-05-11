@@ -1,0 +1,11 @@
+* {
+  font-family: Montserrat;
+}
+
+.heading {
+  /* height: 100vh;
+  width: vw; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
